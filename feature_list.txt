@@ -1,3 +1,6 @@
+Feature details:
+_____________________
+
 1. Job Board Sites/Social Media (eg, Indeed, LinkedIn,Conference Meet-ups) activity levels
 -> Pull data from LinkedIn / Twitter -> NLP -> Extract data in range(normalize) -> Use for modelling
 -> Analyze how this can be extracted and normalized - TODO
